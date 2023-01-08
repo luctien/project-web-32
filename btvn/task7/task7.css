@@ -58,3 +58,24 @@ margin-top: 5px;
   font-size: 15px;
   color: white;
 }
+.icon{
+  display:flex;
+  color: #747474;
+  padding-left: 15px;
+  padding-top: 15px;
+  justify-content: space-between;
+}
+.icon .fa-solid.fa-share-nodes{
+  padding-left: 11px;
+}
+.icon .fa-solid.fa-angle-down{
+  margin-right: 15px;
+  font-size: small;
+}
+.header .fa-solid.fa-ellipsis-vertical{
+  margin-left: auto;
+  margin-right: 18px;
+  align-items: center;
+  display: flex;
+  color: #747474;
+}
