@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f0f2f5;
+    padding: 100px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    height: 106px;
+    margin: -28px;
+}
+h2 {
+    color: #1c1e21;
+    font-size: 28px;
+    font-weight: normal;
+    width: 500px;
+    padding-top: 20px;
+    padding-right: 32px;
+}
+.table {
+    background-color: #fff;
+    height: 350px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 
+                0 8px 16px rgb(0 0 0 / 10%);
+    padding-top: 10px;
+    margin-top: 30px;
+    width: 396px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+input {
+    width: 330px;
+    font-size: 17px;
+    padding: 14px 16px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+}
+div .nhap {
+    padding: 6px 0px;
+}
+.login{
+    padding: 10px;
+}
+button {
+    border: none;
+    font-weight: bold;
+    border-radius: 6px;
+    font-size: 20px;
+    color: #fff;
+    line-height: 48px;
+}
+.login button {
+    background-color: #1877f2;
+    color: #fff;
+    font-size: 20px;
+    line-height: 48px;
+    width: 364px;
+}
+.login a {
+    color: #1877f2;
+    font-size: 14px;
+    padding: 16px 0;
+    display: block;
+    border-bottom: 1px solid #dadde1;
+}
+.new {
+    padding-top: 16px;
+}
+.new button {
+    background-color: #42b72a;
+    font-size: 16px;
+    width: 200px;    
+}
+div .create {
+    margin-top: 28px;
+    text-align: center;
+    font-size: 14px;
+}
+.create a {
+    color: #1c1e21;
+    font-weight: bold;
+}
